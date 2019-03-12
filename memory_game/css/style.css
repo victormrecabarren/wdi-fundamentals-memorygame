@@ -48,6 +48,13 @@ img {
 	margin: 40px 8px;
 }
 
+#twitterpic {
+	margin: 0;
+}
+#fbpic {
+	margin:0;
+}
+
 a {
 	font-family: "Raleway", sans-serif;
 	color: #FFFFFF;
